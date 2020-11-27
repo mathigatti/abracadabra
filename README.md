@@ -17,3 +17,5 @@ flask run --host=0.0.0.0 --port=8080
 ```
 
 Once it's running you should be able to access [http://localhost:8080/](http://localhost:8080/) and see the website, after you press the START button it should start working.
+
+Right now it just prints "abracadabra" in the terminal, but you can change that to whatever you want [here](https://github.com/mathigatti/abracadabra/blob/main/app.py#L9).
