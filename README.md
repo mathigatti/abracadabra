@@ -1,5 +1,9 @@
 # abracadabra
-Make your computer execute whatever you want after you say "abracadabra". This is a basic keyword detection program trained using [teachable machine techonology](https://teachablemachine.withgoogle.com/). If your voice is different from mine it might not work so well, and it might be useful if you go to teachable machine and train a new model with your own voice, it takes a few minutes, then you just need to publish the model and update this line.
+Make your computer execute whatever you want after you say "abracadabra".
+
+## How it works?
+
+This is a basic keyword detection program trained using [teachable machine techonology](https://teachablemachine.withgoogle.com/). If your voice is different from [mine](https://github.com/mathigatti/abracadabra/blob/main/data/1.wav) it might not work so well, and it might be better if you go to the teachable machine website and train a new model with your own voice (it takes just a few minutes), then you just need to publish the model and update [this line](https://github.com/mathigatti/abracadabra/blob/main/templates/index.html#L12).
 
 ## Requirements
 
